@@ -1,4 +1,6 @@
-## Entrega Final de Competencia Kaggle LaboI 2025 virtual analista sr
+# Entrega Final 
+
+## Competencia Kaggle LaboI 2025 virtual analista sr
 
 ## Caracteristicas Agregadas al Workflow
 
@@ -6,9 +8,9 @@
 2 - Tendencia de 6 y 3
 3 - Optimizacion Bayesiana con lambdas l1 y l2
 
-## Consideraciones
+## Nota
   
-  Lamentablemente no se tuvo en cuenta el papel del bloque de codigo CanaritosAsesinos. 
-  Por falta de tiempo
+  Lamentablemente no se tuvo en cuenta el papel del bloque de codigo CanaritosAsesinos. Este bloque de codigo podria quizas afectar la inclusion de las variables adicionales en el FE.
+  Por falta de tiempo y recursos no se pudo correr nuevamente el workflow omitiendo esto.
 
 
