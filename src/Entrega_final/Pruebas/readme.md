@@ -1,4 +1,4 @@
-## Otras quedaron otras pruebas que se hicieron
+## Otras pruebas que se hicieron o quedaron incompletas por falta de tiempo y recurso
 
 Se probaron diferentes estrategias como ser:
 
